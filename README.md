@@ -50,3 +50,7 @@ Functions:
 - listFiles(apiKey): Lists all available files.
 
 Note: This utility requires the `openai` and `requests` libraries to be installed.
+
+API key in hand,
+Models listed, files expand,
+Errors caught, so grand.
