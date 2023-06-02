@@ -13,10 +13,6 @@ This utility is designed to validate an OpenAI API key, check connectivity to th
 list available models, and check for missing required models. It also provides functionality
 to list available files.
 
-Author: Philip Kalogeras
-Last Modified: <date>
-License: GNU General Public License v3.0
-
 Usage:
     python checkApiKey.py [api_key]
 
