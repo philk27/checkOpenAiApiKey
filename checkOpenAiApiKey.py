@@ -1,6 +1,6 @@
 # Project: OpenAI API Key Validator
-# Version: 0.4.0
-# Author: Philip Kalogeras
+# Version: 0.4.1
+# Author: https://github.com/philk27
 # Location: Adelaide, South Australia
 # License: GNU General Public License v3.0
 # Github: https://github.com/philk27/checkOpenAiApiKey
