@@ -4,7 +4,7 @@
 # Location: Adelaide, South Australia
 # License: GNU General Public License v3.0
 # Github: https://github.com/philk27/checkOpenAiApiKey
-# Last Modified: 02 June 2023
+# Last Modified: 14 June 2023
 
 """
 OpenAI API Key Validator
@@ -51,6 +51,9 @@ HARDCODED_MODELS = [
     "code-davinci-002",
     "text-davinci-003",
     "gpt-3.5-turbo-0301",
+    "gpt-3.5-turbo-16k",
+    "gpt-3.5-turbo-0613",
+    "gpt-3.5-turbo-16k-0613",
     "gpt-3.5-turbo",
     "gpt-4",
     "gpt-4-0314",
